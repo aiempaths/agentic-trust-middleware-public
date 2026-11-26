@@ -2,7 +2,7 @@
 
 Trust infrastructure for telemetry-driven decisions.
 
-This sanitized public package shows the architecture and evaluation method without deployment data, credentials, logs, holdout labels, or private service configuration.
+This package shows the architecture and evaluation method without deployment data, credentials, logs, holdout labels, or private service configuration.
 
 ## What it does
 
